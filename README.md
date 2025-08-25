@@ -13,32 +13,34 @@ Each project demonstrates a blend of data wrangling, visualization, machine lear
 1. Customer Segmentation
 
 Goal: Group customers based on purchase behavior to enable targeted marketing campaigns.
+
 Skills: Clustering algorithms, data preprocessing, visualization
+
 Impact: Personalization strategies that improve customer engagement and sales.
 
 2. Sales Trend Analysis & Demand Forecasting
 
 Goal: Analyze historical sales data to identify trends and forecast future demand.
-Skills: Time series analysis, forecasting models (ARIMA, Prophet), visualization
+
+Skills: Time series analysis, visualization
+
 Impact: Optimize inventory management and marketing efforts for peak sales periods.
 
 3. Customer Churn Prediction
 
 Goal: Identify customers likely to stop purchasing and develop retention strategies.
+
 Skills: Classification algorithms, feature engineering, model evaluation
+
 Impact: Reduce churn rate and improve customer lifetime value.
 
 4. Recommendation Engine
 
 Goal: Build a system to recommend products based on user purchase history.
+
 Skills: Collaborative filtering, content-based filtering, similarity metrics
+
 Impact: Increase average order value and enhance user experience.
-
-5. Sentiment Analysis on Customer Reviews
-
-Goal: Analyze product reviews to extract customer sentiment and identify areas for improvement.
-Skills: Natural Language Processing (NLP), sentiment scoring, text preprocessing
-Impact: Inform product development and customer service improvements.
 
 
 ## 📬 Connect With Me
