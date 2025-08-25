@@ -29,6 +29,27 @@ Each project demonstrates a blend of data wrangling, visualization, machine lear
 **Skills:** Classification algorithms, feature engineering, model evaluation  
 **Impact:** Reduce churn rate and improve customer lifetime value.
 
+🛠️ Technologies Used
+
+This portfolio leverages a robust mix of tools and technologies to cover the full analytics workflow — from data extraction and processing to modeling and visualization:
+
+SQL
+Efficient querying, aggregation, and feature engineering on relational databases.
+
+Python
+Data wrangling, statistical analysis, machine learning modeling, and automation using libraries like pandas, NumPy, scikit-learn, and matplotlib.
+
+Power BI
+Interactive dashboards and data visualizations to communicate insights effectively to stakeholders.
+
+Jupyter Notebooks / Google Colab
+Exploratory data analysis and iterative development with clear, reproducible code.
+
+Git & GitHub
+Version control and collaboration, showcasing project progress and code management.
+
+Excel / CSV
+Initial data exploration and basic transformations when needed.
 ---
 
 ## 📬 Connect With Me
