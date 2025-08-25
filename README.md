@@ -29,11 +29,6 @@ Each project demonstrates a blend of data wrangling, visualization, machine lear
 **Skills:** Classification algorithms, feature engineering, model evaluation  
 **Impact:** Reduce churn rate and improve customer lifetime value.
 
-### 4. Recommendation Engine  
-**Goal:** Build a system to recommend products based on user purchase history.  
-**Skills:** Collaborative filtering, content-based filtering, similarity metrics  
-**Impact:** Increase average order value and enhance user experience.
-
 ---
 
 ## 📬 Connect With Me
