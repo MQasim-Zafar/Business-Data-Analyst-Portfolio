@@ -12,7 +12,7 @@ Analyze customer sentiment from reviews to enhance product and service quality
 
 Each project demonstrates a blend of data wrangling, visualization, machine learning, and business insight, using publicly available datasets relevant to e-commerce and retail.
 
-##📂 Projects Overview
+## 📂 Projects Overview
 1. Customer Segmentation
 
 Goal: Group customers based on purchase behavior to enable targeted marketing campaigns.
@@ -43,7 +43,7 @@ Goal: Analyze product reviews to extract customer sentiment and identify areas f
 Skills: Natural Language Processing (NLP), sentiment scoring, text preprocessing
 Impact: Inform product development and customer service improvements.
 
-##🚀 Tools & Technologies
+## 🚀 Tools & Technologies
 
 Languages: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
@@ -57,7 +57,7 @@ Data Visualization: Matplotlib, Seaborn, Plotly
 
 Data Sources: Kaggle, UCI Machine Learning Repository, Google Dataset Search
 
-##📂 How to Explore This Portfolio
+## 📂 How to Explore This Portfolio
 
 Each project folder contains:
 
@@ -69,7 +69,7 @@ Visualizations and insights
 
 Summary of business impact and recommendations
 
-##📬 Connect With Me
+## 📬 Connect With Me
 
 I’m passionate about turning data into actionable business insights, especially in retail and e-commerce. Feel free to reach out if you’d like to collaborate or discuss analytics opportunities!
 
