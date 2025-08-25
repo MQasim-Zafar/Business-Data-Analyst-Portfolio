@@ -1,11 +1,11 @@
 # Analytics Portfolio
 In today’s competitive retail landscape, data-driven decision-making is crucial. This portfolio focuses on practical analytics projects designed to:
 
-Understand customer behavior and preferences
-Forecast sales trends and demand
-Predict customer churn and improve retention
-Build recommendation systems to boost sales
-Analyze customer sentiment from reviews to enhance product and service quality
+*Understand customer behavior and preferences
+*Forecast sales trends and demand
+*Predict customer churn and improve retention
+*Build recommendation systems to boost sales
+*Analyze customer sentiment from reviews to enhance product and service quality
 
 Each project demonstrates a blend of data wrangling, visualization, machine learning, and business insight, using publicly available datasets relevant to e-commerce and retail.
 
