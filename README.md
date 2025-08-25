@@ -1,13 +1,10 @@
+# Analytics Portfolio
 In today’s competitive retail landscape, data-driven decision-making is crucial. This portfolio focuses on practical analytics projects designed to:
 
 Understand customer behavior and preferences
-
 Forecast sales trends and demand
-
 Predict customer churn and improve retention
-
 Build recommendation systems to boost sales
-
 Analyze customer sentiment from reviews to enhance product and service quality
 
 Each project demonstrates a blend of data wrangling, visualization, machine learning, and business insight, using publicly available datasets relevant to e-commerce and retail.
@@ -43,31 +40,6 @@ Goal: Analyze product reviews to extract customer sentiment and identify areas f
 Skills: Natural Language Processing (NLP), sentiment scoring, text preprocessing
 Impact: Inform product development and customer service improvements.
 
-## 🚀 Tools & Technologies
-
-Languages: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-
-Machine Learning: Clustering, classification, recommendation algorithms
-
-Time Series Analysis: ARIMA, Facebook Prophet
-
-NLP: Text preprocessing, sentiment analysis
-
-Data Visualization: Matplotlib, Seaborn, Plotly
-
-Data Sources: Kaggle, UCI Machine Learning Repository, Google Dataset Search
-
-## 📂 How to Explore This Portfolio
-
-Each project folder contains:
-
-Cleaned datasets or links to original sources
-
-Well-documented Jupyter notebooks/scripts with step-by-step explanations
-
-Visualizations and insights
-
-Summary of business impact and recommendations
 
 ## 📬 Connect With Me
 
