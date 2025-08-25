@@ -40,8 +40,8 @@ Each project demonstrates a blend of data wrangling, visualization, machine lear
 
 I’m passionate about turning data into actionable business insights, especially in retail and e-commerce. Feel free to reach out if you’d like to collaborate or discuss analytics opportunities!
 
-- **LinkedIn:** [Your LinkedIn URL]  
-- **Email:** [Your Email Address]  
-- **GitHub:** [Your GitHub URL]  
+- **LinkedIn:** [[Your LinkedIn URL]](https://www.linkedin.com/in/mqasimzafar/)  
+- **Email:** [m.qasimzafar111@gmail.com]  
+- **GitHub:** [https://github.com/MQasim-Zafar]  
 
 Thank you for visiting! I look forward to connecting and sharing my data-driven journey.
