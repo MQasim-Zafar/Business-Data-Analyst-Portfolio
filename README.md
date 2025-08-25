@@ -24,7 +24,7 @@ Each project demonstrates a blend of data wrangling, visualization, machine lear
 **Skills:** Time series analysis, visualization  
 **Impact:** Optimize inventory management and marketing efforts for peak sales periods.
 
-### 3. Customer Churn Prediction  
+### 3. Data Analytics Dashboard
 **Goal:** Identify customers likely to stop purchasing and develop retention strategies.  
 **Skills:** Classification algorithms, feature engineering, model evaluation  
 **Impact:** Reduce churn rate and improve customer lifetime value.
