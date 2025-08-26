@@ -10,13 +10,13 @@ Each project demonstrates a blend of data wrangling, visualization, machine lear
 
 📍 Business Question: Who are our key customer groups and how can we market to them differently?
 
- - Goal: Group customers based on purchase behavior to enable targeted marketing campaigns.
+   -  **Goal**: Group customers based on purchase behavior to enable targeted marketing campaigns.
 
- - Techniques: RFM analysis, K-Means clustering
+ - **Techniques**: RFM analysis, K-Means clustering
 
- - Tools: Python, Google Colab, PowerBI
+ - **Tools**: Python, Google Colab, PowerBI
 
- - Impact: Personalization strategies that improve customer engagement and sales.
+ - **Impact**: Personalization strategies that improve customer engagement and sales.
 
 2. Sales Trend Analysis & Demand Forecasting
 
