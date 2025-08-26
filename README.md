@@ -2,15 +2,7 @@
 
 In today’s competitive business landscape, data-driven decision-making is crucial. This portfolio showcases practical analytics projects designed to answer specific business questions and help:
 
-Understand customer behavior and preferences
-
-Forecast sales trends and demand
-
-Predict customer churn and improve retention
-
-Build recommendation systems to boost sales
-
-Analyze customer sentiment from reviews to enhance product and service quality
+understand customer behavior and preferences, forecast sales trends and demand, predict customer churn and improve retention, and build recommendation systems to boost sales
 
 Each project demonstrates a blend of data wrangling, visualization, machine learning, and business insight using publicly available datasets relevant to e-commerce and retail.
 
@@ -22,8 +14,7 @@ Each project demonstrates a blend of data wrangling, visualization, machine lear
 
 Goal: Group customers based on purchase behavior to enable targeted marketing campaigns.
 Techniques: RFM analysis, K-Means clustering
-Tools: Python, Google Colab
-Bonus: Use Power BI or Tableau to visualize the segments
+Tools: Python, Google Colab, PowerBI
 Impact: Personalization strategies that improve customer engagement and sales.
 
 2. Sales Trend Analysis & Demand Forecasting
