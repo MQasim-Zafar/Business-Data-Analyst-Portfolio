@@ -74,10 +74,10 @@ Excel / CSV: Initial data exploration and basic transformations when needed
 
 I’m passionate about turning data into business insights. Feel free to reach out if you’d like to collaborate or discuss analytics opportunities!
 
-LinkedIn: https://www.linkedin.com/in/mqasimzafar/
+LinkedIn: linkedin.com/in/mqasimzafar/
 
 Email: m.qasimzafar111@gmail.com
 
-GitHub: https://github.com/MQasim-Zafar
+GitHub: github.com/MQasim-Zafar
 
 Thank you for visiting! I look forward to connecting and sharing my data-driven journey.
