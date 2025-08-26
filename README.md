@@ -2,7 +2,7 @@
 
 In today’s competitive business landscape, data-driven decision-making is crucial. This portfolio showcases my interest in business problem solving using data through practical analytics projects designed to answer specific business questions and help understand customer behavior and preferences, forecast sales trends and demand, predict customer churn, improve retention, and build recommendation systems to boost revenue.
 
-Each project demonstrates a blend of data wrangling, visualization, machine learning, and business insight using publicly available datasets relevant to e-commerce and retail.
+Each project demonstrates a blend of data wrangling, visualization, machine learning, and business insight using publicly available datasets relevant across industries.
 
 📂 Projects Overview
 1. Customer Segmentation
@@ -10,13 +10,13 @@ Each project demonstrates a blend of data wrangling, visualization, machine lear
 
 📍 Business Question: Who are our key customer groups and how can we market to them differently?
 
-Goal: Group customers based on purchase behavior to enable targeted marketing campaigns.
+ - Goal: Group customers based on purchase behavior to enable targeted marketing campaigns.
 
-Techniques: RFM analysis, K-Means clustering
+ - Techniques: RFM analysis, K-Means clustering
 
-Tools: Python, Google Colab, PowerBI
+ - Tools: Python, Google Colab, PowerBI
 
-Impact: Personalization strategies that improve customer engagement and sales.
+ - Impact: Personalization strategies that improve customer engagement and sales.
 
 2. Sales Trend Analysis & Demand Forecasting
 
