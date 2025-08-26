@@ -4,7 +4,7 @@ In today’s competitive business landscape, data-driven decision-making is cruc
 
 Each project demonstrates a blend of data wrangling, visualization, machine learning, and business insight using publicly available datasets relevant across industries.
 
-📂 Projects Overview
+## 📂 Projects Overview
 1. Customer Segmentation
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vwIYJL_5drytR7Yx6IztJYJl96ZCLdsv#scrollTo=HN2Ro92gnTAs)
 
@@ -34,7 +34,7 @@ Goal: Identify customers likely to churn and develop retention strategies.
 Skills: Classification algorithms, feature engineering, model evaluation
 Impact: Reduce churn rate and improve customer lifetime value.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 This portfolio leverages a robust mix of tools and technologies covering the full analytics workflow — from data extraction and processing to modeling and visualization:
 
@@ -50,7 +50,7 @@ Git & GitHub: Version control and collaboration, showcasing project progress and
 
 Excel / CSV: Initial data exploration and basic transformations when needed
 
-📬 Connect With Me
+## 📬 Connect With Me
 
 I’m passionate about turning data into actionable business insights. Feel free to reach out if you’d like to collaborate or discuss analytics opportunities!
 
