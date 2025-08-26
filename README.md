@@ -43,7 +43,7 @@ Impact: Reduce churn rate and improve customer lifetime value.
 
 ## 🛠️ Technologies Used
 
-This portfolio leverages a robust mix of tools and technologies covering the full analytics workflow — from data extraction and processing to modeling and visualization:
+This portfolio leverages a mix of tools and technologies covering the full analytics workflow — from data extraction and processing to modeling and visualization:
 
 SQL: Efficient querying, aggregation, and feature engineering on relational databases
 
@@ -59,7 +59,7 @@ Excel / CSV: Initial data exploration and basic transformations when needed
 
 ## 📬 Connect With Me
 
-I’m passionate about turning data into actionable business insights. Feel free to reach out if you’d like to collaborate or discuss analytics opportunities!
+I’m passionate about turning data into business insights. Feel free to reach out if you’d like to collaborate or discuss analytics opportunities!
 
 LinkedIn: https://www.linkedin.com/in/mqasimzafar/
 
