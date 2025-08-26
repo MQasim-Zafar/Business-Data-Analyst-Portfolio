@@ -15,7 +15,8 @@ Analyze customer sentiment from reviews to enhance product and service quality
 Each project demonstrates a blend of data wrangling, visualization, machine learning, and business insight using publicly available datasets relevant to e-commerce and retail.
 
 📂 Projects Overview
-1. Customer Segmentation   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vwIYJL_5drytR7Yx6IztJYJl96ZCLdsv#scrollTo=HN2Ro92gnTAs)
+1. Customer Segmentation
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vwIYJL_5drytR7Yx6IztJYJl96ZCLdsv#scrollTo=HN2Ro92gnTAs)
 
 📍 Business Question: Who are our key customer groups and how can we market to them differently?
 
