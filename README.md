@@ -23,7 +23,7 @@ Each project demonstrates a blend of data wrangling, visualization, machine lear
 
  - **Techniques**: RFM analysis, K-Means clustering
 
- - **Tools**: Python, Google Colab, PowerBI
+ - **Tools**: Python, Google Colab
 
  - **Impact**: Personalization strategies that improve customer engagement and sales.
 
@@ -33,11 +33,13 @@ Each project demonstrates a blend of data wrangling, visualization, machine lear
 
 📍 Business Question: How are our sales evolving and what can we expect next quarter?
 
-Goal: Analyze historical sales data to identify trends and forecast future demand.
+  -**Goal**: Analyze historical sales data to identify trends and forecast future demand.
 
-Skills: Time series analysis, visualization
+  -**Skills**: Time series analysis, visualization
 
-Impact: Optimize inventory management and marketing efforts for peak sales periods.
+  - **Tools**: Python, Excel, PowerBI
+
+  -**Impact**: Optimize inventory management and marketing efforts for peak sales periods.
 
 
 3. **Data Analytics Dashboard**
