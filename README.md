@@ -1,6 +1,13 @@
-# Analytics Portfolio
+# 📊 Data Analytics Portfolio
 
-In today’s competitive business landscape, data-driven decision-making is crucial. This portfolio showcases my interest in business problem solving using data through practical analytics projects designed to answer specific business questions and help understand customer behavior and preferences, forecast sales trends and demand, predict customer churn, improve retention, and build recommendation systems to boost revenue.
+In today’s competitive business landscape, **data-driven decision-making is crucial**.  
+
+This portfolio showcases my interest in **business problem solving using data** through practical analytics projects designed to:
+
+- Understand customer behavior and preferences  
+- Forecast sales trends and demand  
+- Predict customer churn and improve retention  
+- Build recommendation systems to boost revenue 
 
 Each project demonstrates a blend of data wrangling, visualization, machine learning, and business insight using publicly available datasets relevant across industries.
 
