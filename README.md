@@ -13,7 +13,7 @@ Each project demonstrates a blend of data wrangling, visualization, machine lear
 
 ## 📂 Projects Overview
 
-1. **Customer Segmentation**
+**1. Customer Segmentation**
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vwIYJL_5drytR7Yx6IztJYJl96ZCLdsv#scrollTo=HN2Ro92gnTAs)
 
 
@@ -28,30 +28,32 @@ Each project demonstrates a blend of data wrangling, visualization, machine lear
  - **Impact**: Personalization strategies that improve customer engagement and sales.
 
 
-2. Sales Trend Analysis & Demand Forecasting
+
+**2. Sales Trend Analysis & Demand Forecasting**
 
 📍 Business Question: How are our sales evolving and what can we expect next quarter?
 
-Goal: Build time series and machine learning models to forecast sales demand and set accurate sales targets.
+ - Goal: Build time series and machine learning models to forecast sales demand and set accurate sales targets.
 
-Skills: Time series forecasting (ARIMA, XGBoost), statistical modelling, visualization
+ - Skills: Time series forecasting (ARIMA, XGBoost), statistical modelling, visualization
 
-Tools: Python, SQL, Excel, Power BI
+ - Tools: Python, SQL, Excel, Power BI
 
-Impact: Improved demand forecast accuracy, enabling better resource allocation and sales planning.
+ - Impact: Improved demand forecast accuracy, enabling better resource allocation and sales planning.
 
 
-3. Dynamic Pricing Model
+
+**3. Dynamic Pricing Model**
 
 📍 Business Question: How can we optimise our pricing strategy to increase conversions?
 
-Goal: Develop a dynamic pricing framework with scenario-based simulations to adjust discounts and improve sales performance.
+ - Goal: Develop a dynamic pricing framework with scenario-based simulations to adjust discounts and improve sales performance.
 
-Skills: Pricing analysis, scenario modelling, SQL query optimisation
+ - Skills: Pricing analysis, scenario modelling, SQL query optimisation
 
-Tools: SQL, Excel, Power BI
+ - Tools: SQL, Excel, Power BI
 
-Impact: Achieving in conversion rates by optimising discount strategies and enabling data-driven pricing decisions.
+ - Impact: Achieving in conversion rates by optimising discount strategies and enabling data-driven pricing decisions.
 
 
 ## 🛠️ Technologies Used
