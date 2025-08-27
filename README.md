@@ -28,30 +28,30 @@ Each project demonstrates a blend of data wrangling, visualization, machine lear
  - **Impact**: Personalization strategies that improve customer engagement and sales.
 
 
-2. **Sales Trend Analysis & Demand Forecasting**
-
+2. Sales Trend Analysis & Demand Forecasting
 
 📍 Business Question: How are our sales evolving and what can we expect next quarter?
 
-  -**Goal**: Analyze historical sales data to identify trends and forecast future demand.
+Goal: Build time series and machine learning models to forecast sales demand and set accurate sales targets.
 
-  -**Skills**: Time series analysis, visualization
+Skills: Time series forecasting (ARIMA, XGBoost), statistical modelling, visualization
 
-  - **Tools**: Python, Excel, PowerBI
+Tools: Python, SQL, Excel, Power BI
 
-  -**Impact**: Optimize inventory management and marketing efforts for peak sales periods.
-
-
-3. **Data Analytics Dashboard**
+Impact: Improved demand forecast accuracy, enabling better resource allocation and sales planning.
 
 
-📍 Business Question: Which customers are likely to stop purchasing, and how can we improve retention?
+3. Dynamic Pricing Model
 
-Goal: Identify customers likely to churn and develop retention strategies.
+📍 Business Question: How can we optimise our pricing strategy to increase conversions?
 
-Skills: Classification algorithms, feature engineering, model evaluation
+Goal: Develop a dynamic pricing framework with scenario-based simulations to adjust discounts and improve sales performance.
 
-Impact: Reduce churn rate and improve customer lifetime value.
+Skills: Pricing analysis, scenario modelling, SQL query optimisation
+
+Tools: SQL, Excel, Power BI
+
+Impact: Achieving in conversion rates by optimising discount strategies and enabling data-driven pricing decisions.
 
 
 ## 🛠️ Technologies Used
