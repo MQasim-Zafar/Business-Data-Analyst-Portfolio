@@ -7,21 +7,21 @@ The workflow includes:
 
 ## Time Series Exploration & Decomposition
 
-Decompose time series data into trend, seasonal, and noise components.
+ - Decompose time series data into trend, seasonal, and noise components.
 
-Visualize detrended data, seasonal profiles, noise, and reconstruct the original series for better understanding of underlying patterns.
+ - Visualize detrended data, seasonal profiles, noise, and reconstruct the original series for better understanding of underlying patterns.
 
 ## Time Series Modeling
 
 Implement forecasting models:
 
-Simple Exponential Smoothing (SES)
+ - Simple Exponential Smoothing (SES)
 
-Double Exponential Smoothing (Holt’s Linear Trend)
+ - Double Exponential Smoothing (Holt’s Linear Trend)
 
-Triple Exponential Smoothing (Holt-Winters Seasonal Model)
+ - Triple Exponential Smoothing (Holt-Winters Seasonal Model)
 
-Naive Forecasting
+ - Naive Forecasting
 
 Evaluate models to identify the best fit for predicting future demand.
 
@@ -29,18 +29,16 @@ Evaluate models to identify the best fit for predicting future demand.
 
 Simulate demand and lead times to compute:
 
-Reorder Point (ROP)
+ - Reorder Point (ROP)
 
-Lead Time Demand (LTD)
+ - Lead Time Demand (LTD)
 
-Safety Stock at 95% service level
+ - Safety Stock at 95% service level
 
 Support inventory decision-making under uncertainty.
 
 Features
 
-Interactive visualizations of decomposition and model forecasts.
-
-Flexible to any time series data (daily, weekly, monthly).
+Provides forecast using historic sales data
 
 Provides actionable inventory insights using Monte Carlo simulations.
