@@ -1,7 +1,7 @@
 # Time Series Analysis and Inventory Simulation
 ## Overview
 
-This project performs a comprehensive time series exploration, modeling, and inventory simulation workflow. It is designed for businesses or analysts looking to understand demand patterns and make data-driven inventory decisions.
+This project performs a comprehensive time series exploration, modeling, and inventory simulation workflow using Excel. It is designed for businesses or analysts looking to understand demand patterns and make data-driven inventory decisions.
 
 The workflow includes:
 
@@ -35,9 +35,9 @@ Simulate demand and lead times to compute:
 
  - Safety Stock at 95% service level
 
-Support inventory decision-making under uncertainty.
+To support inventory decision-making under uncertainty.
 
-Features
+**Features**
 
  - Provides forecast using historic sales data
 
