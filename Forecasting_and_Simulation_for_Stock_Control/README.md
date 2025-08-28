@@ -41,4 +41,4 @@ To support inventory decision-making under uncertainty.
 
  - Provides forecast using historic sales data
 
- - Provides actionable inventory insights using Monte Carlo simulations.
+ - Provides actionable inventory insights using Monte Carlo simulation.
